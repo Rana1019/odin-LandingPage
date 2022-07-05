@@ -46,6 +46,11 @@ body
     gap : 30px;
 }
 
+a{
+    color : #e5e7eb;
+    text-decoration: none;
+}
+
 .nav-list li
 {
     color : #e5e7eb;
